@@ -1,0 +1,11 @@
+-eot1.txt
+t root   74 Feb  9 17:09 index1.html
+-rw-r--r-- 1 root root   79 Feb  9 17:27 index2.html
+drwxr-xr-x 2 root root 4096 Feb 10 16:57 temp
+-rw-r--r-- 1 root root   39 Feb 10 17:02 text1.txt
+-rw-r--r-- 1 root root   56 Feb 10 17:04 text2.txt
+root@ip-172-31-16-25:/home/ubuntu/git-demo/project# vim
+
+
+
+
